@@ -1,0 +1,17 @@
+[
+ {
+  "titulo": "Estudiar JS",
+  "descripcion": "",
+  "estado": "lista"
+ },
+ {
+  "titulo": "Estudiar React.js",
+  "descripcion": "",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "Estudiar MySQL",
+  "descripcion": "",
+  "estado": "lista"
+ }
+]
